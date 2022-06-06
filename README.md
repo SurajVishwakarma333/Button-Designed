@@ -60,3 +60,46 @@ Now Go to the app -> res -> layout -> activity_main.xml file and add a simple Bu
 	    	});
 	      }
       }
+      
+      
+      
+      
+# Fluorescent Colors Button   
+
+• right click on drawable -> new -> Drawable Resource File
+• Give file name eg: button_design
+• It will generate button_design.xml
+Write the below code in button_design.xml file.
+
+
+
+
+        <?xml version="1.0" encoding="utf-8"?>
+	<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    	   <item>
+             <layer-list>
+                <item android:right="5dp" android:top="5dp">
+                    <shape>
+                    	<corners android:radius="3dp" />
+                    	<solid android:color="#00FFDF" />
+               	    </shape>
+                </item>
+              <item android:bottom="2dp" android:left="2dp">
+                   <shape>
+                        <gradient android:angle="270"
+			android:endColor="#9BFFF8" android:startColor="#00F9FF" />
+                    	<stroke android:width="1dp" android:color="#4EFFFF" />
+                    	<corners android:radius="4dp" />
+                    	<padding android:bottom="10dp" android:left="10dp"
+                        android:right="10dp" android:top="10dp" />
+                   </shape>
+                </item>
+             </layer-list>
+          </item>
+        </selector>
+
+
+
+
+
+
