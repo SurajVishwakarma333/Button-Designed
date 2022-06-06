@@ -75,7 +75,7 @@ Write the below code in button_design.xml file.
 
 
         <?xml version="1.0" encoding="utf-8"?>
-	  <selector xmlns:android="http://schemas.android.com/apk/res/android">
+	     <selector xmlns:android="http://schemas.android.com/apk/res/android">
     	   <item>
              <layer-list>
                 <item android:right="5dp" android:top="5dp">
