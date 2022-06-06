@@ -1,4 +1,4 @@
-# Bounce Animation in Android.
+# Bounce Button Animation in Android.
 
 • Go to the app -> res right click on res folder then New -> Android Resource Directory and create an anim Directory.
 
