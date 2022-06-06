@@ -1,7 +1,9 @@
 # Bounce Animation in Android.
 
 • Go to the app -> res right click on res folder then New -> Android Resource Directory and create an anim Directory.
+
 • Then right-click on anim folder then go to New -> Animation Resource File and create a bounce.xml file.
+
 • bounce.xml file contains the animation which is used to animate the Button in the next step. The complete code for bounce.xml is given below.
 
 
