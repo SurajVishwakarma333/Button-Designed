@@ -97,7 +97,20 @@ Write the below code in button_design.xml file.
              </layer-list>
           </item>
         </selector>
+	
 
+
+• Now Go to the app -> res -> layout -> activity_main.xml file and add a simple Button, which we want to animate.
+
+
+	
+	<Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/buttondesign"  //Remember to add this line 
+        android:text="Color"
+        </Button>
 
 
 
