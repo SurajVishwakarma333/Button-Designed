@@ -60,7 +60,7 @@ Now Go to the app -> res -> layout -> activity_main.xml file and add a simple Bu
 			   }
 	           });
 	}
-      	}
+      }
 
 https://user-images.githubusercontent.com/101108540/172102689-062ac010-7bab-47de-9f45-826179a3476e.mp4    
 # Fluorescent Colors Button   
