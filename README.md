@@ -120,11 +120,11 @@ Write the below code in button_design.xml file.
 
 # IF FACING PROBLEMS LIKE BUTTON COLOR IS NOT UPDATING/CHANGING TRY THIS BOTH WILL WORK.
 
-Solution 1:
+# Solution 1:
 
 ![ButtonColorsChange](https://user-images.githubusercontent.com/101108540/172105086-dbc66aab-3223-4122-a107-fcbc75d82c87.jpg)
 
 
-Solution 2:  
+# Solution 2:  
 
 ![buttoncolorchange](https://user-images.githubusercontent.com/101108540/172105089-2dcde188-b4d0-4f03-831c-9890c3208e50.jpg)
