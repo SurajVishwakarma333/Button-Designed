@@ -101,8 +101,8 @@ Write the below code in button_design.xml file.
 	
 
 
-• Now Go to the app -> res -> layout -> activity_main.xml file and add a simple Button, which we want to animate.
-
+• Now Go to the app -> res -> layout -> activity_main.xml file and add a Button widget
+• Add  android:background="@drawable/buttondesign"  in Buttton which we want to change color.
 
 	
 	<Button
