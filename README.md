@@ -131,3 +131,11 @@ Write the below code in button_design.xml file.
 # Solution 2:  
 
 ![buttoncolorchange](https://user-images.githubusercontent.com/101108540/172105089-2dcde188-b4d0-4f03-831c-9890c3208e50.jpg)
+
+
+
+
+# Wants to add image in the button like below example ?
+
+
+![btn](https://user-images.githubusercontent.com/101108540/172839275-81286505-68c3-471c-9adf-07fcdc4da103.jpg)
