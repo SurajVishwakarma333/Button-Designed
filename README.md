@@ -107,11 +107,11 @@ Write the below code in button_design.xml file.
 
 	
 	<Button
-        android:id="@+id/button"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:background="@drawable/buttondesign"  //Remember to add this line 
-        android:text="Color"
+		android:id="@+id/button"
+		android:layout_width="wrap_content"
+        	android:layout_height="wrap_content"
+        	android:background="@drawable/buttondesign"  //Remember to add this line 
+        	android:text="Color"
         </Button>
 
 
@@ -139,3 +139,14 @@ Write the below code in button_design.xml file.
 
 
 ![btn](https://user-images.githubusercontent.com/101108540/172839275-81286505-68c3-471c-9adf-07fcdc4da103.jpg)
+
+• Attributes : drawableBottom, drawableTop, drawableRight And drawableLeft:
+
+	<Button
+        	android:id="@+id/button"
+       		android:layout_width="wrap_content"
+        	android:layout_height="wrap_content"
+		.....
+        	android:drawableBottom="@drawable/image"   //here we can add image inside button.
+        	.....
+        </Button>
