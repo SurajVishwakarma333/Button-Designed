@@ -144,7 +144,6 @@ Write the below code in button_design.xml file.
 
 	<Button
            android:id="@+id/button"
-	   android:layout_width="wrap_content"
            android:layout_height="wrap_content"
 	   .....
            android:drawableBottom="@drawable/image"   //here we can add image inside button.
